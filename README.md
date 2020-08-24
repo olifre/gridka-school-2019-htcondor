@@ -8,7 +8,13 @@ The tutorial itself can be accessed at:
 
 [https://olifre.github.io/gridka-school-2019-htcondor/](https://olifre.github.io/gridka-school-2019-htcondor/)
 
-Both the files needed for the tutorial and the documentation are kept in this very repository. 
+Both the files needed for the tutorial and the documentation are kept in this very repository.
+
+Note: An up-to-date version of this totorial is maintained at:
+
+[https://github.com/unibonn/htcondor-bonn](https://github.com/unibonn/htcondor-bonn)
+
+including some specifics for the Uni Bonn cluster setup.
 
 ## Licensing
 
